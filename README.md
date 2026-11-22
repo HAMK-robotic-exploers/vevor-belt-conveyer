@@ -2,6 +2,8 @@
 
 ## 1. Overview
 
+![](./Images/Image%20(3).PNG)
+
 This document describes the operation of the conveyor belt system, including its operating procedures, electrical control architecture, and updated microcontroller (MCU) interface.
 
 The conveyor belt system has been re-engineered to support external microcontroller-based control. The updated design allows the conveyor motor to be operated using low-voltage control signals without requiring direct interaction with the 230 V AC motor supply during normal control operations.
